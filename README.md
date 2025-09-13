@@ -7,8 +7,6 @@ A **real-time chat application** built with **Flutter**, designed to be fast, sc
 ## ✨ Features
 - 🔐 User authentication (sign up / login / logout)  
 - 💬 Real-time messaging (1-1 & group chat)  
-- 📷 Send images, emojis, and attachments  
-- 🟢 Online / offline user status  
 - 🔔 Push notifications for new messages  
 - 🎨 Modern UI with Flutter Material Design  
 
@@ -16,8 +14,8 @@ A **real-time chat application** built with **Flutter**, designed to be fast, sc
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)  
-- **Backend:** Firebase / Node.js + WebSocket (tùy chọn)  
-- **Database:** Firestore / MongoDB  
+- **Backend:** Firebase
+- **Database:** Firestore 
 - **Authentication:** Firebase Auth / JWT  
 - **Cloud Storage:** Firebase Storage / S3  
 
